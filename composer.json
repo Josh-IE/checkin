@@ -1,0 +1,8 @@
+{
+    "name": "tel/checkin_api",
+    "description": "checkin api",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^7.4"
+    }
+}
